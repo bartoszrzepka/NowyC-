@@ -1,0 +1,14 @@
+/Users/bartekrzepka/Documents/Programowanie/Pierwszy/bin/Debug/net9.0/Pierwszy
+/Users/bartekrzepka/Documents/Programowanie/Pierwszy/bin/Debug/net9.0/Pierwszy.deps.json
+/Users/bartekrzepka/Documents/Programowanie/Pierwszy/bin/Debug/net9.0/Pierwszy.runtimeconfig.json
+/Users/bartekrzepka/Documents/Programowanie/Pierwszy/bin/Debug/net9.0/Pierwszy.dll
+/Users/bartekrzepka/Documents/Programowanie/Pierwszy/bin/Debug/net9.0/Pierwszy.pdb
+/Users/bartekrzepka/Documents/Programowanie/Pierwszy/obj/Debug/net9.0/Pierwszy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartekrzepka/Documents/Programowanie/Pierwszy/obj/Debug/net9.0/Pierwszy.AssemblyInfoInputs.cache
+/Users/bartekrzepka/Documents/Programowanie/Pierwszy/obj/Debug/net9.0/Pierwszy.AssemblyInfo.cs
+/Users/bartekrzepka/Documents/Programowanie/Pierwszy/obj/Debug/net9.0/Pierwszy.csproj.CoreCompileInputs.cache
+/Users/bartekrzepka/Documents/Programowanie/Pierwszy/obj/Debug/net9.0/Pierwszy.dll
+/Users/bartekrzepka/Documents/Programowanie/Pierwszy/obj/Debug/net9.0/refint/Pierwszy.dll
+/Users/bartekrzepka/Documents/Programowanie/Pierwszy/obj/Debug/net9.0/Pierwszy.pdb
+/Users/bartekrzepka/Documents/Programowanie/Pierwszy/obj/Debug/net9.0/Pierwszy.genruntimeconfig.cache
+/Users/bartekrzepka/Documents/Programowanie/Pierwszy/obj/Debug/net9.0/ref/Pierwszy.dll
